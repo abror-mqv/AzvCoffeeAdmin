@@ -1,0 +1,1 @@
+export { GuestsView } from './guests-view'; 
